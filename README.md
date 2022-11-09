@@ -5,7 +5,7 @@ Welcome to the three-day nanopore training course "__Introduction to nanopore da
 
 This tutorial will guide you through the typical steps of a nanopore assembly of a genome.
 
-In session 2021 (see 2021 branch), we have created a Virtual Machine **IFB Biosphere containing** all tools need to reproduce this training.
+We have created a Virtual Machine **IFB Biosphere containing** all tools need to reproduce this training.
 
 You can use our VM "**CoursAnalysesNanoporeSG**". Find it in the RAINBio catalogue: https://biosphere.france-bioinformatique.fr/catalogue/
 
